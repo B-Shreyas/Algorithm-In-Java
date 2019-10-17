@@ -4,10 +4,6 @@ import static Sorts.SortUtils.print;
 
 /**
  * This method implements the Generic Merge Sort
- *
- * @author Varun Upadhyay (https://github.com/varunu28)
- * @author Podshivalov Nikita (https://github.com/nikitap492)
- * @see SortAlgorithm
  */
 
 class MergeSort implements SortAlgorithm {
